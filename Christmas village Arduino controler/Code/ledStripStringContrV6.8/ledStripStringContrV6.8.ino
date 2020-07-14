@@ -16,7 +16,7 @@
     fine tuned fade values
 */
 /* current version is funtional as of
-    10/91/19 1414
+    10/19/19 1414
 */
 // LED pins, pinVALUE, pinFADEvalue
 // green p11 0,blue p10 1,red p6 3,power p8 4
